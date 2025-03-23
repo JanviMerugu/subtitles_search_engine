@@ -15,3 +15,9 @@ This project develops an advanced search engine for video subtitles, allowing us
 - **NLP & Embeddings**: SentenceTransformers, Scikit-learn
 - **Database**: ChromaDB (for storing embeddings)
 
+## Example Output
+Below is an example of the output from the system:
+
+![image](https://github.com/user-attachments/assets/fa6e0209-9f45-4592-a059-0396d8742d9d)
+
+
